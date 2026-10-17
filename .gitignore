@@ -1,0 +1,8 @@
+# Memória pessoal do Az (fatos e conversas do usuário — nunca versionar)
+dados/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

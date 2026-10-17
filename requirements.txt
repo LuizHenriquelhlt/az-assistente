@@ -1,0 +1,9 @@
+ollama
+ddgs
+
+# --- Modo voz (python main.py --voz) ---
+SpeechRecognition
+pyaudio
+edge-tts
+pygame
+pyttsx3
